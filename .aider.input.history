@@ -1,0 +1,44 @@
+
+# 2025-11-20 19:19:53.199767
++Code the following app
++```
++Idea: A portfolio rebalancing calculator.
++User Goal: Keep portfolio aligned with target percentages (e.g., 50% BTC, 25% ETH, 25% SOL) without doing math manually.
++Core Features (MVP):
++
++* Input: Current holdings (qty), Current Prices, Target Allocation %.
++* Calculation: The specific trades to make (e.g., "Sell 0.1 BTC, Buy 5 SOL").
++* "Smart Rebalance": Suggest using stablecoins to balance instead of selling assets if possible.
++
++Development Plan:
++
++1. Create a state management system for the user's portfolio input.
++2. Fetch live prices to calculate current total value.
++3. Implement the rebalancing algorithm (Target Value - Current Value).
++4. Display a clean "Action List" (Buy X / Sell Y).
++5. No API keys needed (privacy focused)—user enters balances manually.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-20 19:19:53.201387
++Code the following app
++```
++Idea: A portfolio rebalancing calculator.
++User Goal: Keep portfolio aligned with target percentages (e.g., 50% BTC, 25% ETH, 25% SOL) without doing math manually.
++Core Features (MVP):
++
++* Input: Current holdings (qty), Current Prices, Target Allocation %.
++* Calculation: The specific trades to make (e.g., "Sell 0.1 BTC, Buy 5 SOL").
++* "Smart Rebalance": Suggest using stablecoins to balance instead of selling assets if possible.
++
++Development Plan:
++
++1. Create a state management system for the user's portfolio input.
++2. Fetch live prices to calculate current total value.
++3. Implement the rebalancing algorithm (Target Value - Current Value).
++4. Display a clean "Action List" (Buy X / Sell Y).
++5. No API keys needed (privacy focused)—user enters balances manually.
++```
++
++Generate an app logo and update the app metadata title and description.
