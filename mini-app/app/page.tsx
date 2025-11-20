@@ -8,6 +8,7 @@ export default function Home() {
   return (
     <main className="flex flex-col gap-3 place-items-center place-content-center px-4 grow">
       <span className="text-2xl">{title}</span>
+      <img className="size-[512px]" src="/logo.png" alt="App Logo" width={512} height={512} />
       <span className="text-muted-foreground">{description}</span>
     </main>
   );
